@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531413877779",
+    "project_id": "fcmmessaging-a910a",
+    "storage_bucket": "fcmmessaging-a910a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531413877779:android:01629a478397cca33aebe6",
+        "android_client_info": {
+          "package_name": "com.example.fcm_messaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVG7o2guD8xseIy5H83sjQgmoMY9nB6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
